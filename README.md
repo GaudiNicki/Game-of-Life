@@ -1,0 +1,2 @@
+# Game of Life
+This repository contains our solution and documentation of the term paper for module "I143 - Praxis der Softwareentwicklung". Team members are Til Zöller, Falko Partsch, Merlin Ritsch and Niklas Witzel.
